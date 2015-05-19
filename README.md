@@ -1,2 +1,2 @@
 # angular-education-app
-the project
+The project
